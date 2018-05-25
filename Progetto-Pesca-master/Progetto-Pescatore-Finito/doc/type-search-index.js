@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Main","l":"Controlli"},{"p":"Main","l":"Main"},{"p":"Main","l":"Menu"},{"p":"Main","l":"Nodo"},{"p":"Main","l":"Pescatore"},{"p":"Main","l":"PescatoreException"},{"p":"Main","l":"Pescatori"},{"p":"Main","l":"SaveRestore"},{"p":"Main","l":"VisualizzaRiordinato"}]
